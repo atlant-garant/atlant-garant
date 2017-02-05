@@ -26,7 +26,7 @@ Disallow: */*/trackback
 Disallow: */*/feed/*/
 Disallow: */feed
 Disallow: /tag/
-Host: acc-garant.ru
+Host: Atlant-garant.ru
 
-Sitemap: http://acc-garant.ru/sitemap.xml.gz
-Sitemap: http://acc-garant.ru/sitemap.xml
+Sitemap: https://atlant-garant.github.io/sitemap.xml.gz
+Sitemap: https://atlant-garant.github.io/sitemap.xml
