@@ -596,7 +596,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f79043', end
     margin:50px auto;
     overflow:hidden;
     position:relative;
-    right:200px;
+    left:-12px;
+    top:-8px;
     width:750px;
 }
 .slides ul {
