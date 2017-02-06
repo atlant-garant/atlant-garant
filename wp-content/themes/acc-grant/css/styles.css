@@ -595,7 +595,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f79043', end
     height:211px;
     margin:50px auto;
     overflow:hidden;
-    position:relative;
+    position:absolute;
     left:-12px;
     top:-8px;
     width:750px;
