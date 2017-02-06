@@ -2242,86 +2242,37 @@ supportAPI.setDimensions(800,400);
 
 
 		<!--===SLIDER==-->
- 
-        <style type="text/css" media="screen">
-         
-        /* CSS Reset */
-        * {
-            margin: 0;
-            padding: 0;
-            border: 0;
-            outline: 0;
-        }
-             
-        /* Setup Tabs */
-         
-        ul{
-            background:#000;
-            width:125px; /* Width of Tab Image */
-            float: left;
-            list-style: none;
-            border-right:8px solid black;
-        }
-         
-        ul li{
-            height:75px; /* Height of Tab Image */
-        }
-         
-        /* Setup Tab so normal opacity is 40 and rollover is 100 */
-        ul li a img{
-            /* for IE */
-            -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
-            filter:alpha(opacity=40);
-           
-            /* CSS3 standard */
-            opacity:0.4;
-           
-        }
-         
-        /* Change Opacity to 100% on roll over */
-        ul li a:hover img{
-               
-            /* for IE */
-            -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-            filter:alpha(opacity=100);
-             
-            /* CSS3 standard */
-            opacity:1.0;
-        }
-     
-        /* Places images to the right of the tabs,
-        and hides non selected images */
-        #images{
-            width:500px; 
-            height:300px; 
-            overflow:hidden;  /* Hides the non selected images */
-            float:left;
-        }
-         
-        /* Places a black border around the entire viewer
-        and centers it on the screen */
-        #wrapper{
-            width:633px;
-            height:300px;
-            border:8px solid black;
-            margin:0px auto;
-        }
-             
-        </style>
- 
-    </head>
-    <body>
- 
+		<style type="text/css">
 
-         
-        <!-- Images -->
-        <div id="images">
-            <div><a name="image1"></a><img src="images/Atlant-garant3.png" alt="" title="" /></div>
-            <div><a name="image2"></a><img src="images/Atlant-garant2.png" alt="" title="" /></div>
-            <div><a name="image3"></a><img src="images/Untitled-43.jpg" alt="" title="" /></div>
-            <div><a name="image4"></a><img src="images/55.png" alt="" title="" /></div>
-        </div>
-    </div>      
+.hovergallery img{
+-webkit-transform:scale(0.8); /*Webkit: уменьшаем размер до 0.8*/
+-moz-transform:scale(0.8); /*Mozilla: масштабирование*/
+-o-transform:scale(0.8); /*Opera: масштабирование*/
+-webkit-transition-duration: 0.5s; /*Webkit: длительность анимации*/
+-moz-transition-duration: 0.5s; /*Mozilla: длительность анимации*/
+-o-transition-duration: 0.5s; /*Opera: длительность анимации*/
+opacity: 0.7; /*Начальная прозрачность изображений*/
+margin: 0 10px 5px 0; /*Интервалы между изображениями*/
+}
+
+.hovergallery img:hover{
+-webkit-transform:scale(1.1); /*Webkit: увеличиваем размер до 1.2x*/
+-moz-transform:scale(1.1); /*Mozilla: масштабирование*/
+-o-transform:scale(1.1); /*Opera: масштабирование*/
+box-shadow:0px 0px 30px gray; /*CSS3 тени: 30px размытая тень вокруг всего изображения*/
+-webkit-box-shadow:0px 0px 30px gray; /*Webkit: тени*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla: тени*/
+opacity: 1;
+}
+
+</style>
+
+<div class="hovergallery">
+	<img src="images/Atlant-garant3.png" />
+	<img src="images/Atlant-garant2.png" />
+	<img src="images/Untitled-43.jpg" />
+	<img src="images/55.png" />
+</div>
 
 			<script type="text/javascript">
 
