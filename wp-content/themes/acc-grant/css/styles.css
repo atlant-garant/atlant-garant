@@ -592,12 +592,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f79043', end
 	}
 /* Слайдер */
 .slides {
-    height:264px;
+    height:211px;
     margin:50px auto;
     overflow:hidden;
     position:absolute;
-    left:420px;
-    top:220px;
+    left:410px;
+    top:215px;
     width:750px;
 }
 .slides ul {
