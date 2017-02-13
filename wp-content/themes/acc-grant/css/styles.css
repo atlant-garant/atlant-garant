@@ -493,7 +493,7 @@ color: #5A5A5A;
     transform: none;
 }
 #const {
-    background-image: url("/images/contact/cont.png");
+    background-image: url("http://atlant-garant.ru/wp-content/themes/acc-grant/images/contact/cont.png");
     background-repeat: no-repeat;
     background-size: 421px auto;
     margin: -8px 0 0 50px;
@@ -521,7 +521,7 @@ margin-left: -41px;
     border-bottom: 0 none;
     color: grey;
     font-size: 14px;
-    margin-left: 265px;
+    margin-left: 270px;
     text-decoration: none;
 }
 .tooltip {
