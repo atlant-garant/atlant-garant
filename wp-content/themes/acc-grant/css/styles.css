@@ -517,11 +517,11 @@ cursor: pointer;
 margin-left: -41px;
 }
 .icqa {
-	margin-top:-13px;
+	margin-top:-1px;
     border-bottom: 0 none;
     color: grey;
     font-size: 14px;
-    margin-left: 270px;
+    margin-left: 340px;
     text-decoration: none;
 }
 .tooltip {
