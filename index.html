@@ -495,11 +495,16 @@
 
 
 
-    var start_time_h = 20;
     var d = new Date();
     var dt = new Date();
+    var timezone = new Date();
+    var timezoneoffset = (timezone.getTimezoneOffset()/-60)-3;
+    var start_time_h = 20 + timezoneoffset;
     dt.setMinutes(d.getMinutes()+5);
-
+    console.log("the timezone offset is " + timezone.getTimezoneOffset());
+    console.log("the timezone offset variable is " + timezoneoffset);
+    console.log("the timezone offset divided by -60 is " + timezone.getTimezoneOffset()/-60);
+    console.log("the start time is " + start_time_h);
 
     if( dt.getHours() > start_time_h){
         hors = dt.getHours() - start_time_h;
