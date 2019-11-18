@@ -10,7 +10,7 @@
     <meta name="spm-id" content="C53026950326">
     <link href="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/videoStyle2017.css"
             rel="stylesheet" type="text/css">
-	<script src="httpss://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
             
     <script language="JavaScript">
         var url_domainname = location.href;
@@ -67,8 +67,8 @@
         (function () {
             var bp = document.createElement('script');
             var curProtocol = window.location.protocol.split(':')[0];
-            if (curProtocol === 'httpss') {
-                bp.src = 'httpss://zz.bdstatic.com/linksubmit/push.js';
+            if (curProtocol === 'https') {
+                bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
             }
             else {
                 bp.src = 'https://push.zhanzhang.baidu.com/push.js';
@@ -2725,11 +2725,11 @@
                                 </div>
 
                                 <div class="image_box" style="">
-                                    <a href="httpss://itunes.apple.com/cn/app/yang-shi-ying-yin-hd/id391071343?mt=8"
+                                    <a href="https://itunes.apple.com/cn/app/yang-shi-ying-yin-hd/id391071343?mt=8"
                                             target="_blank">
                                         <img src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/24/1453630746885_635.jpg"
                                                 width="320" height="100"></a>
-                                    <a href="httpss://itunes.apple.com/cn/app/yang-shi-ying-yin-hd/id391071343?mt=8"
+                                    <a href="https://itunes.apple.com/cn/app/yang-shi-ying-yin-hd/id391071343?mt=8"
                                             target="_blank" class="mask"></a>
                                 </div>
 
