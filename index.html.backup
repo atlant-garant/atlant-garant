@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="https://www.w3.org/1999/xhtml">
 
 <!-- Mirrored from ukrainesellers.com/f/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 20 Oct 2019 17:26:06 GMT -->
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta https-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>[天下足球]2019年世界杯进球全记录_CCTV节目官网-CCTV-5_央视网(cctv.com)</title>
     <meta name="keywords" content="天下足球 疯狂的足球 2018年世界杯进球全记录">
     <meta name="description" content="《天下足球》2月4日带您重温“疯狂的足球”及“2018年世界杯进球全记录”，欢欢喜喜过大年。">
     <meta name="spm-id" content="C53026950326">
-    <link href="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/videoStyle2017.css"
+    <link href="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/videoStyle2017.css"
             rel="stylesheet" type="text/css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="httpss://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
             
     <script language="JavaScript">
         var url_domainname = location.href;
@@ -46,7 +46,7 @@
         var html;
         var sorts_dianji = sub_column_id + ',' + column_id + ',' + itemid1.substring(0, 4);
         function loadData() {
-            var urls = "http://bbs.cntv.cn/cctvapi/Comment/icms_comment.php?id=" + id + "&type=" + type;
+            var urls = "https://bbs.cntv.cn/cctvapi/Comment/icms_comment.php?id=" + id + "&type=" + type;
             html = $.ajax({
                 url: urls,
                 async: false
@@ -67,23 +67,23 @@
         (function () {
             var bp = document.createElement('script');
             var curProtocol = window.location.protocol.split(':')[0];
-            if (curProtocol === 'https') {
-                bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+            if (curProtocol === 'httpss') {
+                bp.src = 'httpss://zz.bdstatic.com/linksubmit/push.js';
             }
             else {
-                bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+                bp.src = 'https://push.zhanzhang.baidu.com/push.js';
             }
             var s = document.getElementsByTagName("script")[0];
             s.parentNode.insertBefore(bp, s);
         })();
     </script>--><!--sbhy-->
     
-<!--    <script type="text/javascript" src="http://r.img.cctvpic.com/library/content/tw/script/a2.js"></script>
-    <script type="text/javascript" src="http://r.img.cctvpic.com/library/content/tw/script/newDJpfdc.js"></script>
-    <script type="text/javascript" src="http://r.img.cctvpic.com/library/content/tw/script/share.js"></script>
-    <script type="text/javascript" src="http://r.img.cctvpic.com/library/content/tw/script/top.js"></script>
-    <script type="text/javascript" src="http://r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
-    <script src="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452765360136771/cnt_nav.js"
+<!--    <script type="text/javascript" src="https://r.img.cctvpic.com/library/content/tw/script/a2.js"></script>
+    <script type="text/javascript" src="https://r.img.cctvpic.com/library/content/tw/script/newDJpfdc.js"></script>
+    <script type="text/javascript" src="https://r.img.cctvpic.com/library/content/tw/script/share.js"></script>
+    <script type="text/javascript" src="https://r.img.cctvpic.com/library/content/tw/script/top.js"></script>
+    <script type="text/javascript" src="https://r.img.cctvpic.com/library/script/jquery-1.7.2.min.js"></script>
+    <script src="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452765360136771/cnt_nav.js"
             type="text/javascript" charset="gbk"></script>-->
     <script type="text/javascript">
         <!--
@@ -115,10 +115,10 @@
 <div class="ycc2"
         style="display:none;position:fixed;_position:absolute;bottom:10px;_bottom:auto;left:50%;width:74px;height:53px;margin-left:510px;zoom:1 ">
     <span id="ggtop" style="float:left;"><a><img
-                    src="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452765360136771/gotop.jpg" width="53"
+                    src="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452765360136771/gotop.jpg" width="53"
                     height="53"
-                    onmouseout="this.src='http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452765360136771/gotop.jpg'"
-                    onmouseover="this.src='http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452765360136771/tophover.jpg'"
+                    onmouseout="this.src='https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452765360136771/gotop.jpg'"
+                    onmouseover="this.src='https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452765360136771/tophover.jpg'"
                     alt="回到顶部" title="回到顶部"></a></span></div>
 <!-- 全网统一通用通栏导航 -->
 
@@ -126,13 +126,13 @@
 <div class="bg_top_h_tile">
     <div class="bg_top_owner">
         <link type="text/css" rel="stylesheet"
-                href="http://r.img.cctvpic.com/newcctv/tv/new/main/bannerbhy/style/style.css?5f64b3432f4b7c16cee0c4176eb6873a">
+                href="https://r.img.cctvpic.com/newcctv/tv/new/main/bannerbhy/style/style.css?5f64b3432f4b7c16cee0c4176eb6873a">
         <div class="column_wrapper_160119">
 
             <div id="SUBD1453518594415440" data-spm="S15440">
                 <div class="retrieve">
                     <div class="logo"><a href="#"><img width="245" height="100"
-                                    src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/1/9/1547008602986_172.png"
+                                    src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/1/9/1547008602986_172.png"
                                     alt="央视网"
                                     title="央视网（www.cctv.com）由中央电视台主办，为国家重点新闻网站，是集新闻、信息、娱乐、服务为一体的具有视听互动特色的综合性门户网站。"></a>
                     </div>
@@ -158,16 +158,16 @@
                                             <td align="right">
                                                
                                                 |<span id="logout"><a id="register_1" href="#1"
-                                                            target="_blank">注册</a></span>|<a href="http://help.cntv.cn/"
-                                                        target="_blank">客服</a><a href="http://www.cctv.com"
+                                                            target="_blank">注册</a></span>|<a href="https://help.cntv.cn/"
+                                                        target="_blank">客服</a><a href="https://www.cctv.com"
                                                         target="_blank">返回央视网 <i style="font-family:宋体">&gt;&gt;</i></a>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td align="right">
-                                                <a href="http://app.cctv.com/appkhdxz/pc/index.shtml" class="cc2"
+                                                <a href="https://app.cctv.com/appkhdxz/pc/index.shtml" class="cc2"
                                                         target="_blank">PC客户端</a><a
-                                                        href="http://app.cctv.com/appkhdxz/ydb/index.shtml" class="cc"
+                                                        href="https://app.cctv.com/appkhdxz/ydb/index.shtml" class="cc"
                                                         target="_blank">移动客户端</a>
                                             </td>
                                         </tr>
@@ -181,7 +181,7 @@
                     <div class="clear"></div>
                 </div>
 <!--                <script language="javascript" charset="UTF-8"
-                        src="http://www.cntv.cn/Library/passport/2013passport_style/js/login.js"></script>-->
+                        src="https://www.cntv.cn/Library/passport/2013passport_style/js/login.js"></script>-->
             </div>
 
         </div>
@@ -190,7 +190,7 @@
             <div class="kj">
 
                 <div class="nav">
-                    <a href="http://tv.cctv.com" class="">首页</a><a href="live" class="">直播</a><a
+                    <a href="https://tv.cctv.com" class="">首页</a><a href="live" class="">直播</a><a
                             href="epg" class="">节目单</a>
                 </div>
                 <div class="nav2">
@@ -199,78 +199,78 @@
                         <div class="pddq_tp1">
                             <div class="kjc">
                                 <a target="_blank" href="cctv1"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690621284_114.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690621284_114.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv2"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690628754_865.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690628754_865.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv3"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690636178_381.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690636178_381.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv4asia"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690643904_775.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690643904_775.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv4america"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690651984_895.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690651984_895.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv4europe"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690660045_68.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690660045_68.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv5"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690667705_448.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690667705_448.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv6"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690778390_816.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690778390_816.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv7"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690784255_278.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690784255_278.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv8"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690790198_722.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690790198_722.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv9"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690795998_302.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690795998_302.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctvdocumentary"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690803002_520.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690803002_520.png"
                                             width="70" height="28"></a>
                                 <div class="vspace"></div>
                                 <div class="vspace"></div>
                                 <a target="_blank" href="cctv10"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690808635_434.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690808635_434.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv11"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690834418_289.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690834418_289.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv12"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690839834_489.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690839834_489.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv13"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690846155_999.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690846155_999.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv14"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690851927_207.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690851927_207.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv15"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690858316_436.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690858316_436.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctvnews"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690870299_906.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690870299_906.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctvespanol"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690878867_254.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690878867_254.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctvfrench"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690889169_609.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690889169_609.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctvarabic"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690895217_781.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690895217_781.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctvrussian"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690901432_916.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690901432_916.png"
                                             width="70" height="28"></a><a target="_blank"
                                         href="cctv5plus"><img
-                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690912691_160.png"
+                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690912691_160.png"
                                             width="70" height="28"></a>
 
                             </div>
@@ -393,7 +393,7 @@
         </div>
 
         <script charset="gbk" language="javascript"
-                src="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1453426578618240/index20160129.js"></script>
+                src="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1453426578618240/index20160129.js"></script>
         <div id="page_body">
             <div style="height:10px;" class="vspace"></div>
             <div class="column_wrapper" style="position:relative;z-index:9;">
@@ -425,7 +425,7 @@
                 <div style="height:20px;" class="vspace"></div>
                 <div class="video" style="height: fill-content">
                     <a class="right_but"><img
-                                src="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/right_butpng_03.png"
+                                src="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/right_butpng_03.png"
                                 width="15" height="500" title=""></a>
                     <div class="nr_1" style="height: 630px;">
                         <style>
@@ -474,11 +474,11 @@
 		</style>
 
 		<video id="video" class="video-active main-video" width="100%" style="height: fit-content;" muted="muted" autoplay="autoplay">
-		    <source src="http://85.25.213.158/upload/match/online.mp4" type="video/mp4">
+		    <source src="https://85.25.213.158/upload/match/online.mp4" type="video/mp4">
 		</video>
 	    <img src="img/live.png"/>
 	</div>
-					<button class="button_voice button_voice__noisy"><img id="im" style="width: 70%;height: 70%; position: absolute;z-index: 10;right: 10px; top: 20px" src="http://cdn.onlinewebfonts.com/svg/img_525554.png"></button>
+					<button class="button_voice button_voice__noisy"><img id="im" style="width: 70%;height: 70%; position: absolute;z-index: 10;right: 10px; top: 20px" src="https://cdn.onlinewebfonts.com/svg/img_525554.png"></button>
 
 
 	<script>
@@ -489,7 +489,7 @@
       .hasClass("button_voice__noisy");
   
   $('#video').prop("muted", isMuted);
-  $('#im').prop('src', 'http://s1.iconbird.com/ico/2013/6/281/w256h25613715677480014VolumeMaxim.png');  
+  $('#im').prop('src', 'https://s1.iconbird.com/ico/2013/6/281/w256h25613715677480014VolumeMaxim.png');  
 });
 
 
@@ -573,46 +573,46 @@
 								  /* прописывай стили для кнопки без звука*/  }
 
                             .cnt_share .icon a.ico1 {
-                                background: url(http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico.png) no-repeat;
+                                background: url(https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico.png) no-repeat;
                                 background-position: 0 -8px;
                                 right: 120px;
                             }
 
                             .cnt_share .icon a.ico2 {
-                                background: url(http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico2.png) no-repeat;
+                                background: url(https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico2.png) no-repeat;
                                 background-position: 0 0px;
                                 right: 90px;
                             }
 
                             .cnt_share .icon a.ico3 {
-                                background: url(http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico.png) no-repeat;
+                                background: url(https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico.png) no-repeat;
                                 background-position: 0 -87px;
                                 right: 60px;
                             }
 
                             .cnt_share .icon a.ico4 {
-                                background: url(http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico.png) no-repeat;
+                                background: url(https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico.png) no-repeat;
                                 background-position: 0 -48px;
                                 right: 30px;
                             }
 
                             .cnt_share .icon a.ico1:hover {
-                                background: url(http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico_hover.png) no-repeat;
+                                background: url(https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico_hover.png) no-repeat;
                                 background-position: 0 -8px;
                             }
 
                             .cnt_share .icon a.ico2:hover {
-                                background: url(http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico_hover2.png) no-repeat;
+                                background: url(https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico_hover2.png) no-repeat;
                                 background-position: 0 0px;
                             }
 
                             .cnt_share .icon a.ico3:hover {
-                                background: url(http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico_hover.png) no-repeat;
+                                background: url(https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico_hover.png) no-repeat;
                                 background-position: 0 -87px;
                             }
 
                             .cnt_share .icon a.ico4:hover {
-                                background: url(http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico_hover.png) no-repeat;
+                                background: url(https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/share_ico_hover.png) no-repeat;
                                 background-position: 0 -48px;
                             }
                         </style>
@@ -642,7 +642,7 @@
                                 style="float:left; margin:0; margin-top:22px; margin-left:12px; display:none;"
                                 id="yishouchang">
                                     <a class="sc"
-                                            style="background-image:url('http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/favor_hover.png')"
+                                            style="background-image:url('https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/favor_hover.png')"
                                             title="收藏" href="javascript:;"><i style="color:#f0720b">已收藏</i></a>
                                     <span class="sc"></span>
                                 </span>
@@ -650,7 +650,7 @@
                                 style="float:left; margin:0; margin-top:20px;*margin-top:19px; margin-left:52px;">
                                     <a href="#pinglun" title="评论">评论</a></span>
                         <span class="download" style="float:left; margin-left:15px">
-                                    <a href="http://app.cctv.com/appkhdxz/ydb/index.shtml"
+                                    <a href="https://app.cctv.com/appkhdxz/ydb/index.shtml"
                                             target="_blank"><i>客户端看</i></a>
                                     <span class="xl">安装央视影音客户端，随时随地给你精彩！</span>
                                 </span>
@@ -678,7 +678,7 @@
                     <div style="height:40px" class="vspace"></div>
                 </div>
                 <link type="text/css" rel="stylesheet"
-                        href="http://r.img.cctvpic.com/newcctv/tv/new/main/tonglan01/style/style.css?78157fdd92d4e79cc5d9149048060288">
+                        href="https://r.img.cctvpic.com/newcctv/tv/new/main/tonglan01/style/style.css?78157fdd92d4e79cc5d9149048060288">
                 <div class="column_wrapper_xw">
 
                     <div class="column_wrapper_1000_xw" id="SUBD1456109080703492">
@@ -698,7 +698,7 @@
                                 sub_column_id = ""
                             }
                             if (sub_column_id != 'PAGE4y8I53JvSWE8DlRSMlbu160121' && sub_column_id != 'PAGEP1dEaiKB4LVW3lwtQ9qX160120') {
-                                document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=http://galaxy.bjcathay.com/s?z=cathay&c=47&_sz=1000x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
+                                document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=https://galaxy.bjcathay.com/s?z=cathay&c=47&_sz=1000x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
                             }
                         </script>
                     </div>
@@ -736,7 +736,7 @@
                 <div style="height:20px;"></div>
                 <!--<div class="model">
                     <link type="text/css" rel="stylesheet"
-                            href="http://r.img.cctvpic.com/newcctv/tv/new/main/cnxhPAGELUrTvds4/style/style.css?f2ba38bfaf4194279bffb2c96377789e">
+                            href="https://r.img.cctvpic.com/newcctv/tv/new/main/cnxhPAGELUrTvds4/style/style.css?f2ba38bfaf4194279bffb2c96377789e">
                     <div class="ELMTXk9JPBQnetKpmaSXJEv0180412" data-spm="EXk9JPBQnetK">
 
                         <div class="model_160112" style="width:1000px;height:210px;">
@@ -753,7 +753,7 @@
                                             <a href="2019/02/13/VIDEb0B2VnObnNxQVoH2d7lV190213.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/14/1550127511950_365.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/14/1550127511950_365.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/13/VIDEb0B2VnObnNxQVoH2d7lV190213.shtml"></a><a
                                                     class="play" target="_blank"
@@ -772,7 +772,7 @@
                                             <a href="2019/02/13/VIDEtvkRWtYUxnQtDIZmilRB190213.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/14/1550127499033_602.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/14/1550127499033_602.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/13/VIDEtvkRWtYUxnQtDIZmilRB190213.shtml"></a><a
                                                     class="play" target="_blank"
@@ -791,7 +791,7 @@
                                             <a href="2019/02/14/VIDEQIP22NcuJPXyNFacnXbF190214.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/14/1550127483660_838.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/14/1550127483660_838.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/14/VIDEQIP22NcuJPXyNFacnXbF190214.shtml"></a><a
                                                     class="play" target="_blank"
@@ -810,7 +810,7 @@
                                             <a href="2019/02/13/VIDETFtt8KF4CA1E3AYwfvXN190213.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/14/1550127447373_406.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/14/1550127447373_406.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/13/VIDETFtt8KF4CA1E3AYwfvXN190213.shtml"></a><a
                                                     class="play" target="_blank"
@@ -829,7 +829,7 @@
                                             <a href="2019/02/13/VIDEZ5HUoJtrJjW2DPbIyvij190213.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/14/1550127426696_525.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/14/1550127426696_525.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/13/VIDEZ5HUoJtrJjW2DPbIyvij190213.shtml"></a><a
                                                     class="play" target="_blank"
@@ -848,7 +848,7 @@
                                             <a href="2019/02/12/VIDEfbbLA4FKBUycKcT4ZTSW190212.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/13/1550024712047_97.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/13/1550024712047_97.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/12/VIDEfbbLA4FKBUycKcT4ZTSW190212.shtml"></a><a
                                                     class="play" target="_blank"
@@ -867,7 +867,7 @@
                                             <a href="2019/02/12/VIDEJpU4v2m2BZwhVHxhETEN190212.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/13/1550024683972_785.gif"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/13/1550024683972_785.gif"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/12/VIDEJpU4v2m2BZwhVHxhETEN190212.shtml"></a><a
                                                     class="play" target="_blank"
@@ -886,7 +886,7 @@
                                             <a href="2019/02/12/VIDEb3cBTRiZsbHdAvkRAT9w190212.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/13/1550024669969_914.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/13/1550024669969_914.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/12/VIDEb3cBTRiZsbHdAvkRAT9w190212.shtml"></a><a
                                                     class="play" target="_blank"
@@ -905,7 +905,7 @@
                                             <a href="2019/02/12/VIDEw9rPY55gcZLu8vVJyS9A190212.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/13/1550024649547_770.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/13/1550024649547_770.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/12/VIDEw9rPY55gcZLu8vVJyS9A190212.shtml"></a><a
                                                     class="play" target="_blank"
@@ -924,7 +924,7 @@
                                             <a href="2019/02/10/VIDECzRJM0dHIef8W2KxFCHg190210.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/13/1550024624042_781.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/13/1550024624042_781.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/10/VIDECzRJM0dHIef8W2KxFCHg190210.shtml"></a><a
                                                     class="play" target="_blank"
@@ -943,7 +943,7 @@
                                             <a href="2019/02/05/VIDEwwytYtg9sVR8qjmm2Yvd190205.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/13/1550024608828_303.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/13/1550024608828_303.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/05/VIDEwwytYtg9sVR8qjmm2Yvd190205.shtml"></a><a
                                                     class="play" target="_blank"
@@ -962,7 +962,7 @@
                                             <a href="2019/02/11/VIDEs9RNQUbYcSIcZWPSUejM190211.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549961352274_817.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549961352274_817.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/11/VIDEs9RNQUbYcSIcZWPSUejM190211.shtml"></a><a
                                                     class="play" target="_blank"
@@ -981,7 +981,7 @@
                                             <a href="2019/02/05/VIDEcZ0pgzkVyZjBBtkDawf9190205.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549960236294_511.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549960236294_511.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/05/VIDEcZ0pgzkVyZjBBtkDawf9190205.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1000,7 +1000,7 @@
                                             <a href="2019/02/11/VIDEehFAMwZ765U5tmm8U4Hc190211.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549960221041_874.gif"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549960221041_874.gif"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/11/VIDEehFAMwZ765U5tmm8U4Hc190211.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1018,7 +1018,7 @@
                                         <div class="image">
                                             <a href="special/cehua/PC/poemofwinter/" target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549960207486_564.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549960207486_564.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="special/cehua/PC/poemofwinter/"></a><a
                                                     class="play" target="_blank"
@@ -1036,7 +1036,7 @@
                                             <a href="2019/02/11/VIDEzJVN43xZFuVMAD1cp1zb190211.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549960092548_525.gif"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549960092548_525.gif"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/11/VIDEzJVN43xZFuVMAD1cp1zb190211.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1055,7 +1055,7 @@
                                             <a href="2019/02/10/VIDEFb5X2ggjzhpz78k34xNa190210.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549960075510_47.gif"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549960075510_47.gif"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/10/VIDEFb5X2ggjzhpz78k34xNa190210.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1074,7 +1074,7 @@
                                             <a href="2019/02/11/VIDEhIAu01tx4rgLXUCYJFD0190211.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549960012880_608.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549960012880_608.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/11/VIDEhIAu01tx4rgLXUCYJFD0190211.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1093,7 +1093,7 @@
                                             <a href="2019/02/10/VIDEtzrbA062D22SusdaOyJo190210.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549954998550_5.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549954998550_5.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/10/VIDEtzrbA062D22SusdaOyJo190210.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1112,7 +1112,7 @@
                                             <a href="2019/02/10/VIDE4ntaztIiJ8J006Fc8JSB190210.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549954985215_563.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/12/1549954985215_563.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/10/VIDE4ntaztIiJ8J006Fc8JSB190210.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1131,7 +1131,7 @@
                                             <a href="2019/02/10/VIDE1m6iSGGgaePyifMZQWX1190210.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549857012497_877.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549857012497_877.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/10/VIDE1m6iSGGgaePyifMZQWX1190210.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1150,7 +1150,7 @@
                                             <a href="2019/02/10/VIDEg3U0t75C04We1GNoTDca190210.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549857000307_617.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549857000307_617.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/10/VIDEg3U0t75C04We1GNoTDca190210.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1169,7 +1169,7 @@
                                             <a href="2019/02/09/VIDEHq2ZZkHRCvAtmGWjrXLI190209.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856976769_328.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856976769_328.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/09/VIDEHq2ZZkHRCvAtmGWjrXLI190209.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1188,7 +1188,7 @@
                                             <a href="special/cehua/PC/hwxjdw/index.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856954417_85.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856954417_85.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="special/cehua/PC/hwxjdw/index.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1207,7 +1207,7 @@
                                             <a href="2019/02/10/VIDEiNJRpuwrI4PkFXmgEJtC190210.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856900355_702.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856900355_702.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/10/VIDEiNJRpuwrI4PkFXmgEJtC190210.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1226,7 +1226,7 @@
                                             <a href="2019/02/10/VIDEkvA1OHWklgM1iwvjDjKF190210.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856884772_358.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856884772_358.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/10/VIDEkvA1OHWklgM1iwvjDjKF190210.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1245,7 +1245,7 @@
                                             <a href="2019/02/10/VIDEmMsuEZUzn2EKvy18AURr190210.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856873733_34.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856873733_34.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/10/VIDEmMsuEZUzn2EKvy18AURr190210.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1264,7 +1264,7 @@
                                             <a href="2019/02/05/VIDE6YcNgOikDk3RXszcUKGN190205.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856857596_622.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856857596_622.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/05/VIDE6YcNgOikDk3RXszcUKGN190205.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1283,7 +1283,7 @@
                                             <a href="2019/02/10/VIDERtZcyKXbEcreGsRBX9po190210.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856623755_89.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856623755_89.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/10/VIDERtZcyKXbEcreGsRBX9po190210.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1302,7 +1302,7 @@
                                             <a href="2019/02/09/VIDEetldVz3sDhhqtu67csDc190209.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856359479_594.gif"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/11/1549856359479_594.gif"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/09/VIDEetldVz3sDhhqtu67csDc190209.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1321,7 +1321,7 @@
                                             <a href="2019/02/05/VIDEIEDFfCgfYjhYXCaQNefe190205.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/7/1549542877199_297.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/7/1549542877199_297.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/05/VIDEIEDFfCgfYjhYXCaQNefe190205.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1340,7 +1340,7 @@
                                             <a href="2019/02/05/VIDEhFAaNUvlCHnjRx2VJz7d190205.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/7/1549542864863_583.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/7/1549542864863_583.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/05/VIDEhFAaNUvlCHnjRx2VJz7d190205.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1359,7 +1359,7 @@
                                             <a href="2019/02/04/VIDEPaawcCw5RGGpBe9zKiot190204.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/7/1549542896237_661.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/7/1549542896237_661.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/04/VIDEPaawcCw5RGGpBe9zKiot190204.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1378,7 +1378,7 @@
                                             <a href="2019/02/04/VIDEzyUdQSJIB1d784rbynfb190204.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/4/1549292060953_656.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/4/1549292060953_656.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/04/VIDEzyUdQSJIB1d784rbynfb190204.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1397,7 +1397,7 @@
                                             <a href="2019/02/04/VIDESOgYcBbm9BwStKzcdrjg190204.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/4/1549292036517_672.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/4/1549292036517_672.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/04/VIDESOgYcBbm9BwStKzcdrjg190204.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1416,7 +1416,7 @@
                                             <a href="2019/02/03/VIDEY7AVHJ9LiknbFjC3WizO190203.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/4/1549274251762_431.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/4/1549274251762_431.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/03/VIDEY7AVHJ9LiknbFjC3WizO190203.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1435,7 +1435,7 @@
                                             <a href="2019/02/04/VIDERpkuoUxPN43mdpt2yEss190204.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/4/1549274229699_486.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/4/1549274229699_486.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/04/VIDERpkuoUxPN43mdpt2yEss190204.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1454,7 +1454,7 @@
                                             <a href="2019/02/04/VIDErDWywjHV2xKtNZw6lCfe190204.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/4/1549274185720_776.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/4/1549274185720_776.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/04/VIDErDWywjHV2xKtNZw6lCfe190204.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1472,7 +1472,7 @@
                                         <div class="image">
                                             <a href="special/zgctjr/tyf/index.shtml" target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/3/1549174386797_18.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/3/1549174386797_18.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="special/zgctjr/tyf/index.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1490,7 +1490,7 @@
                                             <a href="2019/02/02/VIDEdvwUnvuWTGEJH5rBrND4190202.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/3/1549173330115_17.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/3/1549173330115_17.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/02/VIDEdvwUnvuWTGEJH5rBrND4190202.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1509,7 +1509,7 @@
                                             <a href="2019/02/02/VIDEhJpgsnEHrBF6D7ixg4kS190202.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/3/1549173320510_7.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/3/1549173320510_7.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/02/VIDEhJpgsnEHrBF6D7ixg4kS190202.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1528,7 +1528,7 @@
                                             <a href="2019/02/02/VIDEwIe95Pq7mHQVr57SKVZ8190202.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/3/1549179749373_679.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/3/1549179749373_679.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/02/02/VIDEwIe95Pq7mHQVr57SKVZ8190202.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1624,7 +1624,7 @@
                                             <a href="2019/01/31/VIDEobXDd9llZBuxPmPmjNB0190131.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/1/1549004225357_235.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/1/1549004225357_235.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/01/31/VIDEobXDd9llZBuxPmPmjNB0190131.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1659,7 +1659,7 @@
                                             <a href="2019/01/31/VIDEGuf1mIlNnbGNhLKwe9Ha190131.shtml"
                                                     target="_blank">
                                                 <img width="180" height="113"
-                                                        src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/1/1549002952596_36.jpg"></a>
+                                                        src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/1/1549002952596_36.jpg"></a>
                                             <a class="mask" target="_blank"
                                                     href="2019/01/31/VIDEGuf1mIlNnbGNhLKwe9Ha190131.shtml"></a><a
                                                     class="play" target="_blank"
@@ -1772,7 +1772,7 @@
 
                 <div style="height:20px;"></div>
                 <link type="text/css" rel="stylesheet"
-                        href="http://r.img.cctvpic.com/newcctv/tv/new/main/huazhonghua/style/style.css?c1db78804c8667e22a229b8598a05b95">
+                        href="https://r.img.cctvpic.com/newcctv/tv/new/main/huazhonghua/style/style.css?c1db78804c8667e22a229b8598a05b95">
                 <div class="column_wrapper_xw">
 
                     <div class="column_wrapper_1000_xw" id="SUBD1456109456145955">
@@ -1784,7 +1784,7 @@
                                 <!-- cathay ShowCode: Web_中国网络电视台 / 视频底层页通发 / 中国网络电视台--视频底层页--画中画01 Begin -->
                                 <script type="text/javascript">
                                     if (sub_column_id != 'PAGE4y8I53JvSWE8DlRSMlbu160121' && sub_column_id != 'PAGEP1dEaiKB4LVW3lwtQ9qX160120') {
-                                        document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=http://galaxy.bjcathay.com/s?z=cathay&c=49&_sz=1000x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
+                                        document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=https://galaxy.bjcathay.com/s?z=cathay&c=49&_sz=1000x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
                                     }
                                 </script><!-- cathay ShowCode: Web_中国网络电视台 / 视频底层页通发 / 中国网络电视台--视频底层页--画中画01 End -->
                             </div>
@@ -1796,7 +1796,7 @@
                                 <!-- cathay ShowCode: Web_中国网络电视台 / 视频底层页通发 / 中国网络电视台--视频底层页--画中画02 Begin -->
                                 <script type="text/javascript">
                                     if (sub_column_id != 'PAGE4y8I53JvSWE8DlRSMlbu160121' && sub_column_id != 'PAGEP1dEaiKB4LVW3lwtQ9qX160120') {
-                                        document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=http://galaxy.bjcathay.com/s?z=cathay&c=50&_sz=1000x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
+                                        document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=https://galaxy.bjcathay.com/s?z=cathay&c=50&_sz=1000x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
                                     }
                                 </script><!-- cathay ShowCode: Web_中国网络电视台 / 视频底层页通发 / 中国网络电视台--视频底层页--画中画02 End -->
                             </div>
@@ -1808,7 +1808,7 @@
                                 <!-- cathay ShowCode: Web_中国网络电视台 / 视频底层页通发 / 中国网络电视台--视频底层页--画中画03 Begin -->
                                 <script type="text/javascript">
                                     if (sub_column_id != 'PAGE4y8I53JvSWE8DlRSMlbu160121' && sub_column_id != 'PAGEP1dEaiKB4LVW3lwtQ9qX160120') {
-                                        document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=http://galaxy.bjcathay.com/s?z=cathay&c=51&_sz=1000x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
+                                        document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=https://galaxy.bjcathay.com/s?z=cathay&c=51&_sz=1000x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
                                     }
                                 </script><!-- cathay ShowCode: Web_中国网络电视台 / 视频底层页通发 / 中国网络电视台--视频底层页--画中画03 End -->
                             </div>
@@ -1822,7 +1822,7 @@
 
                 <div style="height:20px;"></div>
                 <link type="text/css" rel="stylesheet"
-                        href="http://r.img.cctvpic.com/newcctv/tv/new/main/ads/style/style.css?e478afcb82b7021b835967f96322fa10">
+                        href="https://r.img.cctvpic.com/newcctv/tv/new/main/ads/style/style.css?e478afcb82b7021b835967f96322fa10">
                 <div class="column_wrapper_xw">
 
                     <div class="column_wrapper_1000_xw" id="SUBD1456109889709250">
@@ -1834,7 +1834,7 @@
                                 <!-- cathay ShowCode: Web_中国网络电视台 / 视频底层页通发 / 中国网络电视台--视频底层页--长通栏 Begin -->
                                 <script type="text/javascript">
                                     if (sub_column_id != 'PAGE4y8I53JvSWE8DlRSMlbu160121' && sub_column_id != 'PAGEP1dEaiKB4LVW3lwtQ9qX160120') {
-                                        document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=http://galaxy.bjcathay.com/s?z=cathay&c=154&_sz=660x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
+                                        document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=https://galaxy.bjcathay.com/s?z=cathay&c=154&_sz=660x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
                                     }
                                 </script><!-- cathay ShowCode: Web_中国网络电视台 / 视频底层页通发 / 中国网络电视台--视频底层页--长通栏 End -->
                             </div>
@@ -1846,7 +1846,7 @@
                                 <!-- cathay ShowCode: Web_中国网络电视台 / 视频底层页通发 / 中国网络电视台--视频底层页--窄通栏 Begin -->
                                 <script type="text/javascript">
                                     if (sub_column_id != 'PAGE4y8I53JvSWE8DlRSMlbu160121' && sub_column_id != 'PAGEP1dEaiKB4LVW3lwtQ9qX160120') {
-                                        document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=http://galaxy.bjcathay.com/s?z=cathay&c=457&_sz=1000x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
+                                        document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=https://galaxy.bjcathay.com/s?z=cathay&c=457&_sz=1000x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
                                     }
                                 </script><!-- cathay ShowCode: Web_中国网络电视台 / 视频底层页通发 / 中国网络电视台--视频底层页--窄通栏 End -->
                             </div>
@@ -1860,7 +1860,7 @@
                             if (window.location.href.split('from=')[1] == 'bdnews') {
                             } else {
                                 if (sub_column_id != 'PAGE4y8I53JvSWE8DlRSMlbu160121' && sub_column_id != 'PAGEP1dEaiKB4LVW3lwtQ9qX160120') {
-                                    document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=http://galaxy.bjcathay.com/s?z=cathay&c=53>' + 'ipt>');
+                                    document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=https://galaxy.bjcathay.com/s?z=cathay&c=53>' + 'ipt>');
                                 }
                             }
                         </script><!-- cathay ShowCode: Web_中国网络电视台 / 视频底层页通发 / 中国网络电视台--视频底层页--弹窗 End -->
@@ -1869,7 +1869,7 @@
                 </div>
                 <div style="height:20px;"></div>
                 <link type="text/css" rel="stylesheet"
-                        href="http://r.img.cctvpic.com/newcctv/tv/new/main/newysbd/style/style.css?c4d200eadc3fe30a6505461b10df0f56">
+                        href="https://r.img.cctvpic.com/newcctv/tv/new/main/newysbd/style/style.css?c4d200eadc3fe30a6505461b10df0f56">
                 <div class="column_wrapper_xw">
 
                     <div class="column_wrapper_1000_xw" id="SUBD1452595881014118" data-spm="S14118">
@@ -1904,7 +1904,7 @@
                                                                 <a href="2019/02/14/VIDEWTv4yJ3wQqR8NtYVKTiW190214.shtml"
                                                                         target="_blank">
                                                                     <img width="120" height="75"
-                                                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/14/1550109447503_825.jpg"></a>
+                                                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/2/14/1550109447503_825.jpg"></a>
                                                                 <i>1</i>
                                                             </div>
                                                             <div class="center">
@@ -2165,7 +2165,7 @@
                                                             <div class="l">
                                                                 <a href="lm/jrsf" target="_blank">
                                                                     <img width="120" height="75"
-                                                                            src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/11/13/1542100283416_752.jpg"></a>
+                                                                            src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/11/13/1542100283416_752.jpg"></a>
                                                                 <i>1</i>
                                                             </div>
                                                             <div class="center">
@@ -2717,27 +2717,27 @@
                             <div class="cctvgwA_ind04_160119">
 
                                 <div class="image_box" style="">
-                                    <a href="http://app.cctv.com/appkhdxz/ydb/index.shtml" target="_blank">
-                                        <img src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/24/1453630738760_548.jpg"
+                                    <a href="https://app.cctv.com/appkhdxz/ydb/index.shtml" target="_blank">
+                                        <img src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/24/1453630738760_548.jpg"
                                                 width="320" height="100"></a>
-                                    <a href="http://app.cctv.com/appkhdxz/ydb/index.shtml" target="_blank"
+                                    <a href="https://app.cctv.com/appkhdxz/ydb/index.shtml" target="_blank"
                                             class="mask"></a>
                                 </div>
 
                                 <div class="image_box" style="">
-                                    <a href="https://itunes.apple.com/cn/app/yang-shi-ying-yin-hd/id391071343?mt=8"
+                                    <a href="httpss://itunes.apple.com/cn/app/yang-shi-ying-yin-hd/id391071343?mt=8"
                                             target="_blank">
-                                        <img src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/24/1453630746885_635.jpg"
+                                        <img src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/24/1453630746885_635.jpg"
                                                 width="320" height="100"></a>
-                                    <a href="https://itunes.apple.com/cn/app/yang-shi-ying-yin-hd/id391071343?mt=8"
+                                    <a href="httpss://itunes.apple.com/cn/app/yang-shi-ying-yin-hd/id391071343?mt=8"
                                             target="_blank" class="mask"></a>
                                 </div>
 
                                 <div class="image_box" style="margin-right:0px !important;">
-                                    <a href="http://app.cctv.com/appkhdxz/pc/index.shtml" target="_blank">
-                                        <img src="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/24/1453630752952_775.jpg"
+                                    <a href="https://app.cctv.com/appkhdxz/pc/index.shtml" target="_blank">
+                                        <img src="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/24/1453630752952_775.jpg"
                                                 width="320" height="100"></a>
-                                    <a href="http://app.cctv.com/appkhdxz/pc/index.shtml" target="_blank"
+                                    <a href="https://app.cctv.com/appkhdxz/pc/index.shtml" target="_blank"
                                             class="mask"></a>
                                 </div>
 
@@ -2751,7 +2751,7 @@
                     <div class="vspace_jj"></div>
                 </div>
                 <link type="text/css" rel="stylesheet"
-                        href="http://r.img.cctvpic.com/newcctv/tv/new/main/tonglan02/style/style.css?78157fdd92d4e79cc5d9149048060288">
+                        href="https://r.img.cctvpic.com/newcctv/tv/new/main/tonglan02/style/style.css?78157fdd92d4e79cc5d9149048060288">
                 <div class="column_wrapper_xw">
 
                     <div class="column_wrapper_1000_xw" id="SUBD1456109207683872">
@@ -2760,7 +2760,7 @@
                         <!-- cathay ShowCode: Web_中国网络电视台 / 视频底层页通发 / 中国网络电视台--视频底层页--底部通栏 Begin -->
                         <script type="text/javascript">
                             if (sub_column_id != 'PAGE4y8I53JvSWE8DlRSMlbu160121' && sub_column_id != 'PAGEP1dEaiKB4LVW3lwtQ9qX160120') {
-                                document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=http://galaxy.bjcathay.com/s?z=cathay&c=48&_sz=1000x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
+                                document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=https://galaxy.bjcathay.com/s?z=cathay&c=48&_sz=1000x90&_subsite=' + dfp_subsite + '&_channel=' + sub_column_id + '&_sorts=' + column_id + '&_tvcctvpindao=' + video_ad_channel_id + '>' + 'ipt>');
                             }
                         </script><!-- cathay ShowCode: Web_中国网络电视台 / 视频底层页通发 / 中国网络电视台--视频底层页--底部通栏 End -->
                         <div id="gtad48" class="vspace" style="display:none;"></div>
@@ -2784,7 +2784,7 @@
                 if (window.location.href.split('from=')[1] == 'bdnews') {
                 } else {
                     if (sub_column_id != 'PAGE4y8I53JvSWE8DlRSMlbu160121' && sub_column_id != 'PAGEP1dEaiKB4LVW3lwtQ9qX160120') {
-                        document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=http://galaxy.bjcathay.com/s?z=cathay&c=52>' + 'ipt>');
+                        document.write('<scr' + 'ipt type="text/javasc' + 'ript" src=https://galaxy.bjcathay.com/s?z=cathay&c=52>' + 'ipt>');
                     } else {
                         $('#pinglun').next().css('display', 'none');
                         $('#pinglun').next().next().next().css('display', 'none');
@@ -2800,15 +2800,15 @@
                 $("#pinglun").html('');
             }
         </script>
-<!--        <script src="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/indexScript2017.js"
+<!--        <script src="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/indexScript2017.js"
                 type="text/javascript"></script>
-        <script src="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/jqBackgroundPositionAnimate.js"
+        <script src="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/jqBackgroundPositionAnimate.js"
                 type="text/javascript"></script>
-        <script src="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/jscroll2017.js"
+        <script src="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/jscroll2017.js"
                 type="text/javascript"></script>
-        <script src="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/videoBox20108.js"
+        <script src="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/videoBox20108.js"
                 type="text/javascript"></script>
-        <script src="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/closeLight.js"
+        <script src="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1452928146750159/closeLight.js"
                 type="text/javascript"></script>-->
     </div>
     <!--页脚-->
@@ -2910,10 +2910,10 @@
             <div class="bottom_sub">
                 <div class="text_box">
                     <h3>
-                        <a href="http://www.cctv.cn/">中央电视台网站</a>  |  <a
-                                href="http://www.cctv.cn/ly/index.shtml">联系CCTV</a>  |  <a
-                                href="http://www.cntv.cn/special/guanyunew/PAGE13818868795101877/index.shtml">人才招聘</a>  |  <a
-                                href="http://1118.cctv.com/chinese/index.shtml">CCTV广告</a>  |  <a
+                        <a href="https://www.cctv.cn/">中央电视台网站</a>  |  <a
+                                href="https://www.cctv.cn/ly/index.shtml">联系CCTV</a>  |  <a
+                                href="https://www.cntv.cn/special/guanyunew/PAGE13818868795101877/index.shtml">人才招聘</a>  |  <a
+                                href="https://1118.cctv.com/chinese/index.shtml">CCTV广告</a>  |  <a
                                 href="2016/03/02/ARTI2TjVLDkZ6tED7aJjMLtE160302.shtml">中央电视台观众呼叫中心</a>
                     </h3>
                 </div>
@@ -2921,18 +2921,18 @@
             <div class="cntv_footer_hdc"><b></b></div>
             <div class="cntv_footer">
                 <div class="bottom_link">
-                    <a href="http://www.cpolive.com/" target="_blank">中国爱乐乐团</a>|<a href="http://www.tv.cn/"
+                    <a href="https://www.cpolive.com/" target="_blank">中国爱乐乐团</a>|<a href="https://www.tv.cn/"
                             target="_blank">中国电视网</a>|<a
-                            href="http://cctvenchiridion.cctv.com/special/C22056/01/index.shtml"
+                            href="https://cctvenchiridion.cctv.com/special/C22056/01/index.shtml"
                             target="_blank">中广协会信息资料委员会</a>|<a
-                            href="http://cctvenchiridion.cctv.com/special/C20540/01/index.shtml"
-                            target="_blank">中广协会电视文艺工作委员会</a>|<a href="http://www.cndfilm.com/01/index.shtml"
+                            href="https://cctvenchiridion.cctv.com/special/C20540/01/index.shtml"
+                            target="_blank">中广协会电视文艺工作委员会</a>|<a href="https://www.cndfilm.com/01/index.shtml"
                             target="_blank">中央新闻纪录电影制片厂</a>
                 </div>
                 <div class="bottom_copyright">
-                    <p>中国中央电视台 版权所有<br><a href="http://www.miibeian.gov.cn/"
+                    <p>中国中央电视台 版权所有<br><a href="https://www.miibeian.gov.cn/"
                                 target="_blank">京ICP证060535号</a>  <a>网络文化经营许可证文网文[2010]024号</a><br><a>网上传播视听节目许可证号 0102004 新出网证（京）字098号</a>
-                        <a href="http://www.cctv.com/special/zlgy/zlgy/index.shtml" target="_blank">中国互联网视听节目服务自律公约</a>
+                        <a href="https://www.cctv.com/special/zlgy/zlgy/index.shtml" target="_blank">中国互联网视听节目服务自律公约</a>
                     </p>
                     <div class="clear"></div>
                 </div>
